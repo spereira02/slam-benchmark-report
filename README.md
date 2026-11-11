@@ -1,3 +1,3 @@
-# Encrypted report delivery
+# SLAM benchmark report
 
-Only the encrypted page is published here. Report contents and the shared password are not stored in this repository.
+Public, unencrypted copy of the report (index.html). Updated from the report owner's build.
